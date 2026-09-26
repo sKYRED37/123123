@@ -104,7 +104,7 @@ async def safe_send_long(msg, full_text: str) -> None:
     for chunk in _split_by_bytes(full_text):
         await msg.answer(_close_open_tags(chunk))
 
-BOT_TOKEN = os.getenv("", "")
+BOT_TOKEN = os.getenv("8826428657:AAF145tgS8Zj3e0WaAP79-Z_KYftiVEqXqs")
 OWNER_ID  = int(os.getenv("1766395031", "1766395031"))
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 
