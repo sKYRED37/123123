@@ -125,7 +125,7 @@ ACADEMY_TEAM_MARKERS = ["academy", "acd", "brazil", "junior", "youth", "female",
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-if not BOT_TOKEN:
+if not BOT_TOKEN:8826428657:AAF145tgS8Zj3e0WaAP79-Z_KYftiVEqXqs
     raise RuntimeError(
         "BOT_TOKEN не задан. На bothost.ru добавьте переменную окружения "
         "BOT_TOKEN в настройках бота (раздел Environment Variables)."
