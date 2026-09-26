@@ -105,7 +105,7 @@ async def safe_send_long(msg, full_text: str) -> None:
         await msg.answer(_close_open_tags(chunk))
 
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-OWNER_ID  = int(os.getenv("OWNER_ID", "0"))
+OWNER_ID  = int(os.getenv("OWNER_ID", "1766395031"))
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 
 # Папка с составами для регистрации команд лиги файлами (см. блок "HOTS ROSTERS"
@@ -130,7 +130,7 @@ if not BOT_TOKEN:
         "BOT_TOKEN не задан. На bothost.ru добавьте переменную окружения "
         "BOT_TOKEN в настройках бота (раздел Environment Variables)."
     )
-if OWNER_ID == 0:
+if OWNER_ID == 1766395031:
     logger.warning("OWNER_ID не задан — команды владельца будут недоступны.")
 
 DB_PATH = "esports_league.db"
