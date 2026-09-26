@@ -105,7 +105,7 @@ async def safe_send_long(msg, full_text: str) -> None:
         await msg.answer(_close_open_tags(chunk))
 
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-OWNER_ID  = int(os.getenv("1766395031", "0"))
+OWNER_ID  = int(os.getenv("1766395031", "1766395031"))
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 
 # Папка с составами для регистрации команд лиги файлами (см. блок "HOTS ROSTERS"
