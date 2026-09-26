@@ -130,7 +130,7 @@ if not BOT_TOKEN:
         "BOT_TOKEN не задан. На bothost.ru добавьте переменную окружения "
         "BOT_TOKEN в настройках бота (раздел Environment Variables)."
     )
-if OWNER_ID == 0:
+if OWNER_ID == 1766395031 :
     logger.warning("OWNER_ID не задан — команды владельца будут недоступны.")
 
 DB_PATH = "esports_league.db"
