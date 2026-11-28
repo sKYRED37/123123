@@ -1,0 +1,13 @@
+Team: DragonborN
+Rank: #13
+Country/Region: Russia
+Points: 224
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- exoc
+- fl1qu
+- z1der
+- Zarvan
+- wirty

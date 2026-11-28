@@ -1,0 +1,13 @@
+Team: Noob Team
+Rank: #18
+Country/Region: Russia
+Points: 112
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- Lighting
+- Lutetius
+- specially
+- Smippy
+- Jeweler

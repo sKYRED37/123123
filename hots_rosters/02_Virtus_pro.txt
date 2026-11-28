@@ -1,0 +1,13 @@
+Team: Virtus.pro
+Rank: #2
+Country/Region: Russia
+Points: 904
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- reason
+- Lunax
+- Arventy
+- chipaa
+- Hi-Lo

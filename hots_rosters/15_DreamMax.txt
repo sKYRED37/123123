@@ -1,0 +1,13 @@
+Team: DreamMax
+Rank: #15
+Country/Region: Brazil
+Points: 161
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- koldzzA
+- Russo
+- alvezz
+- O1EcM
+- xistzy

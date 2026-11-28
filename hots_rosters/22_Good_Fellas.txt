@@ -1,0 +1,13 @@
+Team: Good Fellas
+Rank: #22
+Country/Region: Argentina
+Points: 58
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- S0ft
+- iLoker
+- Ale
+- bogarz
+- ZenGOD

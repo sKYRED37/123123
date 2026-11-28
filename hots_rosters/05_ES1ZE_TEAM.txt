@@ -1,0 +1,13 @@
+Team: ES1ZE TEAM
+Rank: #5
+Country/Region: Russia
+Points: 468
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- Somber
+- FraNker
+- dazz
+- Kot
+- Rendyy

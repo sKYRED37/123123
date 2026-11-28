@@ -1,0 +1,13 @@
+Team: SaiNts
+Rank: #4
+Country/Region: Russia
+Points: 610
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- r6ght
+- y9do
+- trumero
+- hLp
+- s1ndy

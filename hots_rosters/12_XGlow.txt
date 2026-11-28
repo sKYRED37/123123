@@ -1,0 +1,13 @@
+Team: XGlow
+Rank: #12
+Country/Region: Russia
+Points: 233
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- Krong
+- Phorate
+- packo
+- NOCKIN
+- FANT1M

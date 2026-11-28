@@ -1,0 +1,13 @@
+Team: Rats Esports
+Rank: #17
+Country/Region: Russia
+Points: 132
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- quijza
+- Relax1on
+- harakiri
+- vooby
+- enze

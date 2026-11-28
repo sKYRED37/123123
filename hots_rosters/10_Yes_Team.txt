@@ -1,0 +1,13 @@
+Team: Yes Team
+Rank: #10
+Country/Region: Europe
+Points: 317
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- Wyrdin
+- ck
+- pla1Nt
+- nfear44
+- Toose

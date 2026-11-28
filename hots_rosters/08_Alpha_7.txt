@@ -1,0 +1,13 @@
+Team: Alpha 7
+Rank: #8
+Country/Region: Brazil
+Points: 379
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- jabbi
+- ACiDH$
+- GSN
+- kyten
+- Metal

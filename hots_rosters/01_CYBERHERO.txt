@@ -1,0 +1,13 @@
+Team: CYBERHERO
+Rank: #1
+Country/Region: Russia
+Points: 1037
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- Nekr0
+- fLACSYS
+- cxtleta
+- scndoom
+- enough

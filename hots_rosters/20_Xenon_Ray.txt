@@ -1,0 +1,13 @@
+Team: Xenon Ray
+Rank: #20
+Country/Region: Russia
+Points: 95
+Ranking date: 2026-11-03
+Source: https://rankoff.org/rankings/teams?date=2026-11-03
+
+Roster:
+- conexxion
+- onetteri
+- surh
+- qwckk
+- koyd
